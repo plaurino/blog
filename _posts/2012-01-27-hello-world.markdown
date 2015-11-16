@@ -10,5 +10,5 @@ author:
 description: "We are live!"
 ---
 
-We are live!
+Hello World! This is the first post, please enjoy our blog. More articles coming soon We are live!
 

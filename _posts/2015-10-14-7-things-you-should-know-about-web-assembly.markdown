@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 Things You Should Know About WebAssembly"
-description: "Learn 7 things you should know about WebAssembly, one of the biggest changes the web will experience in the coming years."
+description: "7 things you should know about WebAssembly, one of the biggest changes the web will experience in the coming years."
 date: 2015-10-14 18:00
 author: 
   name: Sebastián Peyrott
